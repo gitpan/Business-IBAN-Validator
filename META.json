@@ -4,7 +4,7 @@
       "Abe Timmerman <abeltje@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.68, CPAN::Meta::Converter version 2.112621",
+   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "unknown"
    ],
@@ -22,7 +22,7 @@
    "prereqs" : {
       "build" : {
          "requires" : {
-            "Test::Exception" : 0,
+            "Test::Exception" : "0",
             "Test::More" : "0.88"
          }
       },
@@ -33,10 +33,10 @@
       },
       "runtime" : {
          "requires" : {
-            "Hash::Util" : 0
+            "Hash::Util" : "0"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.05"
 }
